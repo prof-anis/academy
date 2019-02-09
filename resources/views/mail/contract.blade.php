@@ -1,0 +1,2 @@
+
+hello , how are you? this is Tobi from Joshozoir Academy. We saw your request to join our league of tutors hence we have considered and approved your request. You have been allocated certain subject and your account is now active. Kindly go to the link below which would give you further instructions http://localhost/academy/public/teacher/code/my-code
